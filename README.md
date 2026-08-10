@@ -42,7 +42,7 @@ Meta-Analysis-in-R/
 
 ## Author
 
-*Titus Robert Leeyio*
+Titus Robert Leeyio
 
 Assistant Lecturer
 
